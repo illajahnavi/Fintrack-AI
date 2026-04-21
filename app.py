@@ -546,6 +546,7 @@ def analytics_data():
             "success": False,
             "error": str(e)
         })
+    
 @app.route("/verify-otp", methods=["POST"])
 def verify_otp():
     try:
@@ -620,4 +621,4 @@ def users():
 
 
 if __name__ == "__main__":
-    app.run(debug=True,host = "0.0.0.0",port = 5050)
+    app.run(debug=True,host = "0.0.0.0",port = 5500)
