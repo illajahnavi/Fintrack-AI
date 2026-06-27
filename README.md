@@ -1,16 +1,14 @@
-Project Name
+Project Name:
 
-FinTrackAI
+FINTRACKAI
 
-Description
+DESCRIPTION
 
 FinTrackAI is an interactive financial analytics application designed to help users track, analyze, and understand financial data through automated insights and visualizations. The project combines data processing, analytics, and AI-driven approaches to provide meaningful financial information in an easy-to-use interface.
 
 The application enables users to monitor financial performance, analyze trends, and gain insights through an interactive dashboard deployed using Render.
 
-Purpose
-
-The purpose of this project is to:
+PURPOSE
 
 -Simplify financial data tracking and analysis
 -Provide insights into spending and financial patterns
@@ -26,14 +24,10 @@ Features
 -Data-driven insights
 -Cloud deployment using Render
 
-Requirements:
-
+REQUIREMENTS:
 Python 3.x
-
-Dependencies:
-
--Streamlit
+DEPENDENCIES:
+-flask
 -Pandas
--NumPy
--Plotly
+-Gunicorn
 Other libraries mentioned in requirements.txt
