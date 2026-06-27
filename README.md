@@ -15,6 +15,7 @@ PURPOSE
 -Visualize financial trends through interactive dashboards
 -Support data-driven financial decision-making
 -Demonstrate practical implementation of analytics and AI concepts
+
 Features
 -Interactive financial dashboard
 -Automated data analysis
@@ -26,6 +27,7 @@ Features
 
 REQUIREMENTS:
 Python 3.x
+
 DEPENDENCIES:
 -flask
 -Pandas
