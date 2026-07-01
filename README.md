@@ -132,14 +132,14 @@ ANALYTICS TECHNIQUES
 - KPI Development
 - Data Visualization
 
-REQUIREMENTS
-streamlit
-pandas
-numpy
-plotly
-render
+REQUIREMENTS:
+-streamlit
+-pandas
+-numpy
+-plotly
+-render
 
-BUSINESS VALUE
+BUSINESS VALUE:
 FinTrackAI helps users make better financial decisions by:
 -Increasing spending awareness
 -Identifying unnecessary expenses
